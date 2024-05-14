@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sectionOne{
+    width: 100%;
+    background-color:lightgrey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+   
+   
+}
+.image{
+    background-image : url(https://themewagon.github.io/timezone/assets/img/hero/watch.png );
+    width:29%;
+    height: 700px;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+text{
+    
+   background-color: aquamarine;
+   width: 70%;
+   height: 550px;
+}
+h2{
+    font-size:50px;
+    width:80%;
+ 
+}
+p{
+    font-size:17px;
+    width:60%;
+}
